@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb00ec44-a2d7-4e6f-bd56-3bdc2294b318" name="Changes" comment="HW13 added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/ItHillelFrontEndBasicCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework13/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework13/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework13/QuadraticEquation.java" afterDir="false" />
+    <list default="true" id="bb00ec44-a2d7-4e6f-bd56-3bdc2294b318" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework13/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework13/QuadraticEquationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -47,21 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -70,7 +74,7 @@
       <recent name="homework13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework14.Main">
+  <component name="RunManager" selected="JUnit.QuadraticEquationTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework13.Main" />
       <module name="Project_H_Maven_Test" />
@@ -84,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.Main" />
+    <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework13.QuadraticEquation" />
       <module name="Project_H_Maven_Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework14.*" />
+          <option name="PATTERN" value="homework13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework14.Main" />
         <item itemvalue="JUnit.QuadraticEquationTest" />
         <item itemvalue="JUnit.QuadraticEquationTest.solveTestTwoRoots" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.QuadraticEquationTest.solveTestOneRoot" />
+        <item itemvalue="Application.QuadraticEquation" />
       </list>
     </recent_temporary>
   </component>
@@ -175,24 +179,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681800500548</updated>
-      <workItem from="1681800503422" duration="17801000" />
-      <workItem from="1681885578164" duration="21519000" />
+      <workItem from="1681800503422" duration="16021000" />
     </task>
-    <task id="LOCAL-00001" summary="HW13 added">
-      <created>1681826282840</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1681826282840</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW13 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW13 added" />
   </component>
 </project>
