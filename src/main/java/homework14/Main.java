@@ -44,7 +44,6 @@ public class Main {
         });
         frontEndBasicPage.clickToCoachesShowAllButton();
 
-        Thread.sleep(3000);
         System.out.println(frontEndBasicPage.getCoachesName().toString());
 
         driver.quit();

@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb00ec44-a2d7-4e6f-bd56-3bdc2294b318" name="Changes" comment="HW14 added + HW13 updates">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/AbstractPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/ConfigProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/FrontEndBasicPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/HillelHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/ProgrammingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+    <list default="true" id="bb00ec44-a2d7-4e6f-bd56-3bdc2294b318" name="Changes" comment="HW14 updates">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/ConfigProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/DesignPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/HillelTestingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/KidsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/ManagementPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/MarketingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/ProgrammingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/QAAutomationJavaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/QAAutomationPythonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/QAManualPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework14/ItHillelFrontEndBasicCourse.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/homework14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework14/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +83,7 @@
       <recent name="homework13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework14.Main">
+  <component name="RunManager" selected="Application.homework15.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework13.Main" />
       <module name="Project_H_Maven_Test" />
@@ -105,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework15.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework15.Main" />
+      <module name="Project_H_Maven_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuadraticEquationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project_H_Maven_Test" />
       <extension name="coverage">
@@ -116,22 +134,6 @@
       <option name="PACKAGE_NAME" value="homework13" />
       <option name="MAIN_CLASS_NAME" value="homework13.QuadraticEquationTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuadraticEquationTest.solveTestOneRoot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project_H_Maven_Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="homework13" />
-      <option name="MAIN_CLASS_NAME" value="homework13.QuadraticEquationTest" />
-      <option name="METHOD_NAME" value="solveTestOneRoot" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework15.Main" />
         <item itemvalue="Application.homework14.Main" />
         <item itemvalue="JUnit.QuadraticEquationTest" />
         <item itemvalue="JUnit.QuadraticEquationTest.solveTestTwoRoots" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.QuadraticEquationTest.solveTestOneRoot" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +189,9 @@
       <workItem from="1681921566028" duration="473000" />
       <workItem from="1682012983001" duration="81000" />
       <workItem from="1682013105975" duration="1205000" />
-      <workItem from="1682152793872" duration="22721000" />
+      <workItem from="1682152793872" duration="23971000" />
+      <workItem from="1682248970708" duration="19902000" />
+      <workItem from="1682316080304" duration="4744000" />
     </task>
     <task id="LOCAL-00001" summary="HW14 added + HW13 updates">
       <created>1681921581703</created>
@@ -196,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681921581703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW14 updates">
+      <created>1682179902106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682179902106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +215,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW14 added + HW13 updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW14 added + HW13 updates" />
+    <MESSAGE value="HW14 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW14 updates" />
   </component>
 </project>
