@@ -4,21 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb00ec44-a2d7-4e6f-bd56-3bdc2294b318" name="Changes" comment="HW14 updates">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/AbstractPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/ConfigProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/DesignPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/HillelTestingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/KidsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/ManagementPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/MarketingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/ProgrammingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/QAAutomationJavaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/QAAutomationPythonPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/QAManualPage.java" afterDir="false" />
+    <list default="true" id="bb00ec44-a2d7-4e6f-bd56-3bdc2294b318" name="Changes" comment="HW15 added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/CategoryName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/ConfigProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/DesignPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/ProgrammingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/QAAutomationJavaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/QAAutomationPythonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/QAManualPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/TestingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/UIUXDesignProPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework16/WebDesignBasicsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +30,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/homework16/ProgrammingPage.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,20 +88,7 @@
       <recent name="homework13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework15.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework13.Main" />
-      <module name="Project_H_Maven_Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.homework16.Main">
     <configuration name="homework14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework14.Main" />
       <module name="Project_H_Maven_Test" />
@@ -116,6 +108,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework16.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework16.Main" />
+      <module name="Project_H_Maven_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework16.Main" />
         <item itemvalue="Application.homework15.Main" />
         <item itemvalue="Application.homework14.Main" />
         <item itemvalue="JUnit.QuadraticEquationTest" />
         <item itemvalue="JUnit.QuadraticEquationTest.solveTestTwoRoots" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +196,9 @@
       <workItem from="1682013105975" duration="1205000" />
       <workItem from="1682152793872" duration="23971000" />
       <workItem from="1682248970708" duration="19902000" />
-      <workItem from="1682316080304" duration="4744000" />
+      <workItem from="1682316080304" duration="7197000" />
+      <workItem from="1682405446050" duration="16202000" />
+      <workItem from="1682493101681" duration="7150000" />
     </task>
     <task id="LOCAL-00001" summary="HW14 added + HW13 updates">
       <created>1681921581703</created>
@@ -207,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682179902106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW15 added">
+      <created>1682321081076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682321081076</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +230,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW14 added + HW13 updates" />
     <MESSAGE value="HW14 updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW14 updates" />
+    <MESSAGE value="HW15 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW15 added" />
   </component>
 </project>
