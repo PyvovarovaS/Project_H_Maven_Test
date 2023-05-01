@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb00ec44-a2d7-4e6f-bd56-3bdc2294b318" name="Changes" comment="HW16 added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework17/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bb00ec44-a2d7-4e6f-bd56-3bdc2294b318" name="Changes" comment="HW17 added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +178,7 @@
       <workItem from="1682316080304" duration="7197000" />
       <workItem from="1682405446050" duration="16202000" />
       <workItem from="1682493101681" duration="8100000" />
-      <workItem from="1682928276479" duration="7001000" />
+      <workItem from="1682928276479" duration="7296000" />
     </task>
     <task id="LOCAL-00001" summary="HW14 added + HW13 updates">
       <created>1681921581703</created>
@@ -212,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682500802572</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW17 added">
+      <created>1682952710870</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682952710870</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +226,7 @@
     <MESSAGE value="HW14 updates" />
     <MESSAGE value="HW15 added" />
     <MESSAGE value="HW16 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW16 added" />
+    <MESSAGE value="HW17 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW17 added" />
   </component>
 </project>
